@@ -1,2 +1,36 @@
-# Student-Record-System-C
-A complete Student Record System implemented in C for COS 201 — Computer Programming I. Features include adding, modifying, deleting, searching, sorting, and saving student records using dynamic memory allocation and file operations.
+Student Record System in C
+
+This project is a Student Record System created for COS 201 — Computer Programming I.
+It allows users to manage student details such as name, roll number, and marks using core C programming concepts.
+
+✅ Features
+
+	Add student records
+	
+	Modify existing records
+	
+	Remove a student
+	
+	Search students by roll number
+	
+	Calculate average marks
+	
+	Sort students by marks (ascending/descending)
+	
+	Save records to file
+	
+	Load records from file
+	
+	Dynamic memory allocation
+	
+	User-friendly menu interface
+
+🛠 Technologies
+
+	C Programming Language
+	
+	Dynamic Memory
+	
+	File Handling
+	
+	Structures & Arrays
