@@ -255,7 +255,7 @@ void saveToFile(const StudentList *list)
 }
 
 void loadFromFile(StudentList *list) {
-    FILE *fp = fopen(FILENAME, "r");
+    FILE *fp = fopen("./records.txt", "r");
     if (!fp) {
         printf("Error opening file for reading.\n");
         return;
